@@ -1,1 +1,1 @@
-# infrasLab.github.io
+# infras.github.io
